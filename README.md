@@ -1,6 +1,6 @@
 # Deep Residual Steganography: High-Fidelity Image Hiding in PyTorch
 
-An end-to-end Deep Convolutional Steganography system capable of hiding a full-color RGB secret image inside another full-color RGB cover image with high imperceptibility (**PSNR > 35–40 dB**, **NC > 0.99**).
+An end-to-end Deep Convolutional Steganography system capable of hiding a full-color RGB secret image inside another full-color RGB cover image with high imperceptibility (**PSNR > 75 dB**, **NC > 0.99**).
 
 ---
 
